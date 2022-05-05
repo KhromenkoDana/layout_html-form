@@ -1,1 +1,11 @@
-/* styles go here */
+.formField {
+  margin-bottom: 10px;
+}
+
+.headlines {
+  margin: 0;
+}
+
+.indentation {
+  margin-bottom: 20px;
+}
