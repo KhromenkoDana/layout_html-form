@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACE,kBACF,CAEA,WACE,QACF,CAEA,aACE,kBACF","file":"style.a470000a.css","sourceRoot":"..\\src","sourcesContent":[".formField {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.headlines {\r\n  margin: 0;\r\n}\r\n\r\n.indentation {\r\n  margin-bottom: 20px;\r\n}\r\n"]}
